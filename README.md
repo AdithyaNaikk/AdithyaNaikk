@@ -1,30 +1,229 @@
-<h1 align="center">Hi 👋, I'm Adithya</h1>
-<h3 align="center">A passionate AIML Engineer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyanaikk&label=Profile%20views&color=0e75b6&style=flat" alt="adithyanaikk" /> </p>
+  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyanaikk" alt="adithyanaikk" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Vision, Generative AI, Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **AIML Projects**
+  
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdithyaNaikk](https://github.com/AdithyaNaikk)
 
-- 💬 Ask me about **AI Software Development**
 
-- 📫 How to reach me **naikadithya904@gmail.com**
+  
+  
+    
+  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adithyanaik05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithyanaik05/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyanaikk&show_icons=true&locale=en&layout=compact" alt="adithyanaikk" /></p>
+ About My Mission
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adithyanaikk&show_icons=true&locale=en" alt="adithyanaikk" /></p>
+  
+    🌱 Currently Mastering: Computer Vision, Generative AI, Natural Language Processing
+    👯 Seeking Collaborations: Innovative AIML Projects
+    👨‍💻 Explore My Work: GitHub Repositories
+    💬 Ask Me About: AI Software Development
+    📫 Reach Me: naikadithya904@gmail.com
+  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanaikk&" alt="adithyanaikk" /></p>
+
+
+ Connect with Me
+
+  
+    
+  
+
+
+
+ Languages & Tools
+
+  
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+    
+      
+    
+  
+
+
+
+ GitHub Analytics
+
+  
+  
+
+
+
+  
+
+
+
+ Cosmic Voyage Animation
+
+  
+  Navigating the AI Cosmos, One Code at a Time! 🚀
+
+
+
+const canvas = document.getElementById('spaceGame');
+const ctx = canvas.getContext('2d');
+
+// Stars
+const stars = [];
+for (let i = 0; i < 50; i++) {
+  stars.push({
+    x: Math.random() * canvas.width,
+    y: Math.random() * canvas.height,
+    size: Math.random() * 2 + 1,
+    speed: Math.random() * 2 + 1
+  });
+}
+
+// Spaceship
+const spaceship = {
+  x: 50,
+  y: canvas.height / 2,
+  width: 30,
+  height: 20,
+  speed: 2,
+  dy: 0
+};
+
+// Animation loop
+function animate() {
+  ctx.fillStyle = '#0D1117';
+  ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+  // Draw stars
+  ctx.fillStyle = '#FFFFFF';
+  stars.forEach(star => {
+    ctx.beginPath();
+    ctx.arc(star.x, star.y, star.size, 0, Math.PI * 2);
+    ctx.fill();
+    star.x -= star.speed;
+    if (star.x < 0) star.x = canvas.width;
+  });
+
+  // Draw spaceship (pixel-art style)
+  ctx.fillStyle = '#00FFFF';
+  ctx.beginPath();
+  ctx.moveTo(spaceship.x, spaceship.y);
+  ctx.lineTo(spaceship.x + spaceship.width, spaceship.y - spaceship.height / 2);
+  ctx.lineTo(spaceship.x + spaceship.width * 0.7, spaceship.y);
+  ctx.lineTo(spaceship.x + spaceship.width, spaceship.y + spaceship.height / 2);
+  ctx.closePath();
+  ctx.fill();
+  ctx.fillStyle = '#FF00FF';
+  ctx.fillRect(spaceship.x - 10, spaceship.y - 5, 5, 10); // Thruster
+
+  // Update spaceship position
+  spaceship.y += spaceship.dy;
+  if (spaceship.y < spaceship.height / 2) spaceship.y = spaceship.height / 2;
+  if (spaceship.y > canvas.height - spaceship.height / 2) spaceship.y = canvas.height - spaceship.height / 2;
+
+  // Simulate movement
+  spaceship.dy = Math.sin(Date.now() * 0.002) * 2; // Smooth oscillation
+
+  requestAnimationFrame(animate);
+}
+
+// Keyboard controls (optional interactivity)
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowUp') spaceship.dy = -spaceship.speed;
+  if (e.key === 'ArrowDown') spaceship.dy = spaceship.speed;
+});
+document.addEventListener('keyup', () => spaceship.dy = 0);
+
+// Start animation
+animate();
+
+
+
+
+  
+
+
+
+@keyframes glow {
+  from { box-shadow: 0 0 5px #00FFFF, 0 0 10px #00FFFF; }
+  to { box-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF; }
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
