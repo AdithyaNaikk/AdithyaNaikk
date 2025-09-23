@@ -151,9 +151,7 @@
 
 <br>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanaikk&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 <br>
 
