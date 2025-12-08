@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Adithya&fontSize=60&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20SoftWare%20Engineer%20From%20India&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Adithya&fontSize=60&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20Software%20Engineer%20From%20India&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Vision+Expert;Generative+AI+Enthusiast;Natural+Language+Processing;Building+AI+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Vision+Expert;Generative+AI+Enthusiast;Natural+Language+Processing;Building+AI+Solutions;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <br>
@@ -17,8 +17,14 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adithyanaikk&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyanaikk&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</p>
 
 ---
 
@@ -46,6 +52,12 @@
   </table>
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
+</p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Collaboration
@@ -59,6 +71,12 @@
     <img src="https://img.shields.io/badge/GitHub-AdithyaNaikk-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
 
 ---
 
@@ -80,6 +98,12 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/>
   </a>
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+</p>
 
 ---
 
@@ -117,7 +141,6 @@
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
 </p>
 
@@ -140,24 +163,43 @@
 
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+</p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Statistics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyanaikk&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adithyanaikk&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=adithyanaikk&show_icons=true&locale=en&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanaikk&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<br>
-
-
 
 <br>
 
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=adithyanaikk&custom_title=Adithya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00b3ff&point=f9fffe&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs?username=adithyanaikk&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
+
+<br>
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=adithyanaikk&custom_title=Adithya's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7c3aed&line=00b3ff&point=f9fffe&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</p>
 
 ---
 
@@ -167,12 +209,26 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
+</p>
+
+---
+
+<details>
+<summary><b>🏆 More Achievements</b></summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyanaikk&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Extended Trophies"/>
+</p>
+</details>
 
 ---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlign=50&desc=Let's%20connect%20and%20collaborate&descAlign=60&animation=twinkling" />
 </div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+</p>
