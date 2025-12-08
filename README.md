@@ -16,14 +16,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api?username=adithyanaikk&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-  </a>
-</div>
-
-<br>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
@@ -40,30 +32,58 @@
 - 💡 Passionate about building AI solutions for real-world problems
 - 🤝 Open to collaborating on AIML and Full Stack projects
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+</p>
+
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50"> Featured Projects
 
-### 🚗 Vehicle Classification and Detection using Neural Networks
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🚗 Vehicle Classification System
 **🏆 Best Paper Award Winner**
-- Developed deep learning models using **YOLO** and **Faster R-CNN** for vehicle classification
-- Achieved **90% mean Average Precision (mAP)** on test datasets
+
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/Faster_R--CNN-0769AD?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+- Deep learning models for vehicle classification
+- **90% mAP** achieved on test datasets
+- Real-time traffic monitoring application
 - Technologies: Python, TensorFlow, OpenCV
-- Application: Traffic monitoring and autonomous vehicle systems
 
-### 💊 Drug-to-Drug Interaction Prediction Model
-- Built AI model using **Graph Neural Networks (GNNs)** and **RNNs**
-- Improved prediction accuracy by **12%** over baseline models
+</td>
+<td width="50%">
+
+### 💊 Drug Interaction Predictor
+
+<img src="https://img.shields.io/badge/GNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/RNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+- Graph Neural Networks for drug interactions
+- **12% accuracy improvement** over baseline
+- Pharmaceutical research application
 - Technologies: Python, PyTorch, Scikit-learn
-- Impact: Identifying harmful drug combinations for safer pharmaceutical research
 
-### 🦴 Bone Fracture Detection and Diagnosis System
-- AI diagnostic tool for detecting bone fractures in X-ray images
-- Enhanced medical diagnostic efficiency by **20%**
-- **ResNet** classification: **92% accuracy** | **U-Net** for precise segmentation
-- Integrated **YOLOv11** boosting detection accuracy by **10%**
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🦴 Bone Fracture Detection System
+
+<img src="https://img.shields.io/badge/ResNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/U--Net-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+- AI diagnostic tool for bone fracture detection in X-ray images
+- **20% efficiency improvement** in medical diagnostics
+- **ResNet**: 92% accuracy | **U-Net**: Precise segmentation | **YOLOv11**: 10% accuracy boost
+- Real-time Streamlit interface for medical professionals
 - Technologies: TensorFlow, PyTorch, OpenCV, Streamlit, Labelbox, Roboflow
-- Real-time interface for medical professionals
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
@@ -154,28 +174,63 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"> Certifications
 
-### 🔐 Cybersecurity
+<details open>
+<summary><b>🔐 Cybersecurity</b></summary>
+<br>
+
 - **Learn to Hack Real-Time Web Application** - NullClass (Oct 2025)
 
-### 💻 Web Development
+</details>
+
+<details open>
+<summary><b>💻 Web Development</b></summary>
+<br>
+
 - **Learn to Build a Real Time Website like Groww - Frontend** - NullClass (Oct 2025)
 
-### 🧪 Testing & Automation
+</details>
+
+<details open>
+<summary><b>🧪 Testing & Automation</b></summary>
+<br>
+
 - **TechA Selenium Python Automation Testing** - Infosys (Nov 2024)
 - **Automating Web Testing with Selenium and Python** - Infosys (Nov 2024)
 
-### 📊 Project Management
+</details>
+
+<details open>
+<summary><b>📊 Project Management</b></summary>
+<br>
+
 - **Agile Kanban Certification** - Infosys (Sep 2024)
 - **Kanban In Practice** - Infosys (Sep 2024)
 
-### 🖼️ Computer Vision
+</details>
+
+<details open>
+<summary><b>🖼️ Computer Vision</b></summary>
+<br>
+
 - **Image Processing Onramp** - MathWorks (Jul 2024)
 
-### 🤖 AI & Machine Learning
+</details>
+
+<details open>
+<summary><b>🤖 AI & Machine Learning</b></summary>
+<br>
+
 - **Fundamentals of Reinforcement Learning** - University of Alberta via Coursera (Feb 2024)
 
-### 🔬 Nanotechnology
+</details>
+
+<details open>
+<summary><b>🔬 Nanotechnology</b></summary>
+<br>
+
 - **Nanotechnology and Nanosensors, Part 2** - Technion - Israel Institute of Technology via Coursera (Feb 2023)
+
+</details>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
@@ -200,36 +255,37 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+</p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adithyanaikk&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=adithyanaikk&theme=radical&hide_border=true"/>
-  </a>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=adithyanaikk&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adithyanaikk&theme=github_dark" alt="GitHub Stats"/>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adithyanaikk&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-  </a>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adithyanaikk&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithyanaikk&theme=github_dark" alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=adithyanaikk&theme=react-dark&bg_color=20232a&hide_border=true&line=58a6ff&color=58a6ff&point=58a6ff"/>
-  </a>
+  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithyanaikk&theme=github_dark" alt="Profile Details"/>
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyanaikk&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="99%" alt="Contribution Graph"/>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -237,19 +293,23 @@
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50"> GitHub Trophies
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyanaikk&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
 
 <div align="center">
-  
-### 🔥 Contribution Stats
-  
-<img src="https://github-readme-stats.vercel.app/api?username=adithyanaikk&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
+</p>
 
 ---
 
@@ -258,5 +318,5 @@
 </div>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200">
 </p>
