@@ -35,7 +35,7 @@
 - 🎓 Computer Science Engineering Student specializing in AI/ML
 - 🔬 Research focus on Computer Vision, Deep Learning & Neural Networks
 - 🏆 Best Paper Award Winner for Vehicle Classification research
-- 💼 Currently interning at NullClass Edtech & Kakunje Software
+- 💼 Front End Web Dev Intern at NullClass | Cyber Security Intern at NullClass | AIML & Full Stack Intern at Kakunje Software
 - 🌱 Exploring Graph Neural Networks, Reinforcement Learning & Advanced CV techniques
 - 💡 Passionate about building AI solutions for real-world problems
 - 🤝 Open to collaborating on AIML and Full Stack projects
@@ -138,19 +138,13 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"> Professional Experience
 
-### 💼 Current Internships
+**Front End Web Development Intern** | NullClass Edtech Private Limited
 
-**Front End Web Development Intern** | NullClass Edtech Private Limited  
-📅 Oct 2025 - Present | 📍 Tamil Nadu, India
+**Cyber Security Intern** | NullClass Edtech Private Limited
 
-**Cyber Security Intern** | NullClass Edtech Private Limited  
-📅 Oct 2025 - Present | 📍 Tamil Nadu, India
+**AIML and Full Stack Development Intern** | Kakunje Software
 
-**AIML and Full Stack Development Intern** | Kakunje Software  
-📅 Feb 2025 - May 2025 | 📍 Mangaluru, Karnataka, India
-
-**Web Development Intern** | Motion Cut  
-📅 Oct 2023 - Nov 2023 | 📍 Lucknow, Uttar Pradesh, India
+**Web Development Intern** | Motion Cut
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -253,9 +247,7 @@
   
 ### 🔥 Contribution Stats
   
-<a href="https://github.com/adithyanaikk">
-  <img src="https://github-contributor-stats.vercel.app/api?username=adithyanaikk&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=adithyanaikk&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
 
 </div>
 
