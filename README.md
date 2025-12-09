@@ -264,7 +264,7 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=adithyanaikk&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=adithyanaikk&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adithyanaikk&theme=github_dark" alt="GitHub Stats"/>
 </div>
 
@@ -293,7 +293,13 @@
 
 ---
 
+## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50"> GitHub Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adithyanaikk&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
