@@ -264,15 +264,15 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"> GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=adithyanaikk&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adithyanaikk&theme=github_dark" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithyanaikk&theme=github_dark" alt="Top Languages"/>
 </div>
 
 <br>
 
 <div align="center">
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adithyanaikk&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adithyanaikk&theme=github_dark" alt="Top Languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adithyanaikk&theme=github_dark" alt="Most Commit Language"/>
 </div>
 
 <br>
