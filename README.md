@@ -148,20 +148,6 @@ Two-stage pipeline — ResNet-18 classifier gates a YOLO instance-segmentation m
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
-
-| | |
-|---|---|
-| 🖼️ **Image Processing Onramp** | MathWorks |
-| 🤖 **Fundamentals of Reinforcement Learning** | University of Alberta (Coursera) |
-| 🔐 **Learn to Hack Real-Time Web Applications** | NullClass |
-| 🧪 **Selenium Python Automation Testing** | Infosys |
-| 📊 **Agile Kanban Certification** | Infosys |
-
-</div>
-
 ---
 
 ## 📊 GitHub Activity
