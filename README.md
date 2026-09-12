@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Adithya&fontSize=60&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20Software%20Engineer%20&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20👋,%20I'm%20Adithya&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20AI%2FML%20Builder&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Vision+Expert;Generative+AI+Enthusiast;Deep+Learning+Specialist;Full+Stack+Developer;AIML+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Vision+Builder;Agentic+AI+%26+LLM+Tooling;Deep+Learning+Enthusiast;Open-Source+Explorer" alt="Typing SVG" />
 </div>
 
 <br>
@@ -24,13 +24,12 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> About Me
 
-- 🎓 Computer Science Engineering Student specializing in AI/ML
-- 🔬 Research focus on Computer Vision, Deep Learning & Neural Networks
-- 🏆 Best Paper Award Winner for Vehicle Classification research
-- 💼 Front End Web Dev Intern at NullClass | Cyber Security Intern at NullClass | AIML & Full Stack Intern at Kakunje Software
-- 🌱 Exploring Graph Neural Networks, Reinforcement Learning & Advanced CV techniques
-- 💡 Passionate about building AI solutions for real-world problems
-- 🤝 Open to collaborating on AIML and Full Stack projects
+- 🎓 Computer Science student, with a growing focus on cognitive science and perception
+- 🔬 Building projects across computer vision, deep learning, and agentic AI systems
+- 🏆 Best Paper Award — team research on comparative object detection architectures
+- 🌱 Currently exploring multi-modal deep learning, LLM tool-calling, and reliable agent design
+- 💡 Interested in building AI systems that are not just accurate, but honest about their own limits
+- 🤝 Open to collaborating on AI/ML and open-source projects
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
@@ -38,47 +37,68 @@
 
 ---
 
+## 🚀 Featured Projects
 
 <table align="center">
 <tr>
 <td width="50%">
 
-### 🚗 Vehicle Classification System
-**🏆 Best Paper Award Winner**
+### 🏙️ Aerial Building Footprint Detection
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/EfficientNet--B0-FF6F00?style=flat-square"/> <img src="https://img.shields.io/badge/DeepLabV3+-0769AD?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/Faster_R--CNN-0769AD?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-
-- Deep learning models for vehicle classification
-- **90% mAP** achieved on test datasets
-- Real-time traffic monitoring application
-- Technologies: Python, TensorFlow, OpenCV
+- Two-stage pipeline: cheap classifier gates an expensive segmenter
+- **96.8%** classification accuracy · **0.645 IoU / 0.785 Dice**
+- Real error analysis uncovered a roof-color shortcut bias — a genuine, documented failure mode
+- Tech: PyTorch, EfficientNet-B0, DeepLabV3+, MobileNetV2, Streamlit
 
 </td>
 <td width="50%">
 
-### 💊 Drug Interaction Predictor
+### 🤖 AI Resume Scoring Agent
+<img src="https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/GNN-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/RNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+- LLM agent with **forced tool-calling** for guaranteed structured output
+- Schema deliberately orders reasoning before score, so reasoning drives the result
+- Wired into a full automation chain: Flask API → n8n → email
+- Tech: Gemini API, Flask, n8n, Streamlit, JSON Schema
 
-- Graph Neural Networks for drug interactions
-- **12% accuracy improvement** over baseline
-- Pharmaceutical research application
-- Technologies: Python, PyTorch, Scikit-learn
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🚗 Vehicle Classification & Detection
+**🏆 Best Paper Award**
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/> <img src="https://img.shields.io/badge/RT--DETR-0769AD?style=flat-square"/>
+
+- Comparative study: **YOLOv11 vs RT-DETR vs YOLOv9** on KITTI and IRUVD
+- No single model won universally — a genuine, dataset-dependent finding
+- Team project — led data labeling, model training/evaluation, and paper writing
+- Tech: Python, Ultralytics YOLO, RT-DETR
+
+</td>
+<td width="50%">
+
+### 💊 Drug-to-Drug Interaction Prediction
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+
+- Multi-modal deep learning across chemical structure, target, and enzyme similarity
+- Classifies drug pairs across **65 interaction event types**
+- Team project — built and trained the models
+- Tech: TensorFlow/Keras, scikit-learn
 
 </td>
 </tr>
 <tr>
 <td colspan="2">
 
-### 🦴 Bone Fracture Detection System
+### 🦴 X-Ray Fracture Detection & Segmentation
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ResNet-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/U--Net-00599C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/YOLOv11-00FFFF?style=flat-square&logo=yolo&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-- AI diagnostic tool for bone fracture detection in X-ray images
-- **20% efficiency improvement** in medical diagnostics
-- **ResNet**: 92% accuracy | **U-Net**: Precise segmentation | **YOLOv11**: 10% accuracy boost
-- Real-time Streamlit interface for medical professionals
-- Technologies: TensorFlow, PyTorch, OpenCV, Streamlit, Labelbox, Roboflow
+- Two-stage pipeline: **ResNet-18** classifier gates a **YOLO instance-segmentation** model
+- Native **DICOM** medical file support, plus a heuristic pre-check that filters non-X-ray uploads
+- Real-time Streamlit interface with downloadable results
+- Tech: PyTorch, Ultralytics YOLO, OpenCV, pydicom, Roboflow, Streamlit
 
 </td>
 </tr>
@@ -94,51 +114,27 @@
 
 <div align="center">
 
-### 🐍 Programming & Database
-<p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+### 🧠 AI/ML & Computer Vision
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,py" />
 
-### 🌐 Web & Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+<br><br>
 
-### 🧠 AI/ML Frameworks & Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-</p>
+<img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/ResNet-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EfficientNet-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepLabV3+-0769AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RT--DETR-0769AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-### 🔬 Specialized Neural Networks
-<p>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO"/>
-  <img src="https://img.shields.io/badge/ResNet-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ResNet"/>
-  <img src="https://img.shields.io/badge/U--Net-00599C?style=for-the-badge&logo=python&logoColor=white" alt="U-Net"/>
-  <img src="https://img.shields.io/badge/GNN-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="GNN"/>
-  <img src="https://img.shields.io/badge/RNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="RNN"/>
-  <img src="https://img.shields.io/badge/Faster%20R--CNN-0769AD?style=for-the-badge&logo=python&logoColor=white" alt="Faster R-CNN"/>
-</p>
+### 🌐 Web & Mobile
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,flutter,figma" />
 
 ### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Roboflow-8B5CF6?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow"/>
-  <img src="https://img.shields.io/badge/Labelbox-000000?style=for-the-badge&logo=labelbox&logoColor=white" alt="Labelbox"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
+<img src="https://img.shields.io/badge/Roboflow-8B5CF6?style=for-the-badge&logo=roboflow&logoColor=white" alt="Roboflow"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
 </div>
 
@@ -154,63 +150,13 @@
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="50"> Professional Experience
-
-**Front End Web Development Intern** | NullClass Edtech Private Limited
-
-**Cyber Security Intern** | NullClass Edtech Private Limited
-
-**AIML and Full Stack Development Intern** | Kakunje Software
-
-**Web Development Intern** | Motion Cut
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
-
----
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50"> Certifications
-
-<details open>
-<summary><b>🔐 Cybersecurity</b></summary>
-<br>
-
-- **Learn to Hack Real-Time Web Application** - NullClass (Oct 2025)
-
-</details>
-
-<details open>
-<summary><b>💻 Web Development</b></summary>
-<br>
-
-- **Learn to Build a Real Time Website like Groww - Frontend** - NullClass (Oct 2025)
-
-</details>
-
-<details open>
-<summary><b>🧪 Testing & Automation</b></summary>
-<br>
-
-- **TechA Selenium Python Automation Testing** - Infosys (Nov 2024)
-- **Automating Web Testing with Selenium and Python** - Infosys (Nov 2024)
-
-</details>
-
-<details open>
-<summary><b>📊 Project Management</b></summary>
-<br>
-
-- **Agile Kanban Certification** - Infosys (Sep 2024)
-- **Kanban In Practice** - Infosys (Sep 2024)
-
-</details>
 
 <details open>
 <summary><b>🖼️ Computer Vision</b></summary>
 <br>
 
-- **Image Processing Onramp** - MathWorks (Jul 2024)
+- **Image Processing Onramp** — MathWorks (Jul 2024)
 
 </details>
 
@@ -218,15 +164,33 @@
 <summary><b>🤖 AI & Machine Learning</b></summary>
 <br>
 
-- **Fundamentals of Reinforcement Learning** - University of Alberta via Coursera (Feb 2024)
+- **Fundamentals of Reinforcement Learning** — University of Alberta via Coursera (Feb 2024)
 
 </details>
 
 <details open>
-<summary><b>🔬 Nanotechnology</b></summary>
+<summary><b>🔐 Cybersecurity</b></summary>
 <br>
 
-- **Nanotechnology and Nanosensors, Part 2** - Technion - Israel Institute of Technology via Coursera (Feb 2023)
+- **Learn to Hack Real-Time Web Applications** — NullClass (Oct 2025)
+
+</details>
+
+<details open>
+<summary><b>🧪 Testing & Automation</b></summary>
+<br>
+
+- **TechA Selenium Python Automation Testing** — Infosys (Nov 2024)
+- **Automating Web Testing with Selenium and Python** — Infosys (Nov 2024)
+
+</details>
+
+<details open>
+<summary><b>📊 Project Management</b></summary>
+<br>
+
+- **Agile Kanban Certification** — Infosys (Sep 2024)
+- **Kanban In Practice** — Infosys (Sep 2024)
 
 </details>
 
@@ -247,9 +211,6 @@
   </a>
   <a href="mailto:naikadithya904@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="tel:+918310214262" target="_blank">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
   </a>
 </div>
 
@@ -276,14 +237,16 @@
 <br>
 
 <div align="center">
-  <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adithyanaikk&theme=github_dark" alt="Profile Details"/>
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=adithyanaikk&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="99%" alt="Contribution Graph"/>
 </div>
 
-<br>
+<!--
+  Optional "cool" add-on: an animated snake that eats your contribution graph.
+  Requires a one-time GitHub Actions setup (see note below the README).
+  Once set up, uncomment this line:
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adithyanaikk&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true" width="99%" alt="Contribution Graph"/>
-</div>
+  <img src="https://raw.githubusercontent.com/AdithyaNaikk/AdithyaNaikk/output/github-contribution-grid-snake.svg" width="99%" alt="Snake animation"/>
+-->
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
