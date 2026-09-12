@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:3c096c,70:7209b7,100:f72585&height=220&section=header&text=Adithya%20Naik&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:3c096c,70:7209b7,100:f72585&height=220&section=header&text=Adithya%20&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Computer+Vision+Specialist;Agentic+AI+Builder;Open-Source+Contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Computer+Vision;Agentic+AI;Open-Source+Contributor" alt="Typing SVG" />
 
 <br><br>
 
