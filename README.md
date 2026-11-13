@@ -20,7 +20,7 @@
 
 <div align="center">
 
-Building at the intersection of **computer vision**, **agentic AI**, and **ML systems that know their own limits** — increasingly focused on how models fail gracefully, not just how they succeed.
+Building at the intersection of **computer vision**, **agentic AI**, and **ML systems that know their own limits**
 
 </div>
 
